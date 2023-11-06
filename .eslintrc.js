@@ -27,7 +27,7 @@ module.exports = {
   extends: [
     'eslint:recommended',
     'plugin:@typescript-eslint/recommended',
-    '@react-native-community',
+    '@react-native',
     'plugin:prettier/recommended',
   ],
   plugins: ['simple-import-sort', 'prettier'],
